@@ -1,0 +1,5 @@
+{
+  "kernel": "arm-neon-fma",
+  "f32_throughput": "12.4 GFLOPS",
+  "p99_us": 42
+}
